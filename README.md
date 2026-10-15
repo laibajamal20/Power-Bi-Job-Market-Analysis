@@ -95,9 +95,9 @@ This project uses the Jobs and Salaries in Data Science dataset.
 
 
 
-- \*\*Source:\*\* \[Kaggle dataset](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data)
+- Source: \[Kaggle dataset](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data)
 
-- \*\*License information:\*\* \[Open Data Commons Database Contents License (DbCL) 1.0](https://opendatacommons.org/licenses/dbcl/1-0/)
+- License information: \[Open Data Commons Database Contents License (DbCL) 1.0](https://opendatacommons.org/licenses/dbcl/1-0/)
 
 
 
